@@ -16,24 +16,24 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              <span className="purple">😁 INTRODUCTION 😁</span> 
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I started out as a Economics/Mathematics major, and didn't start coding until freshman year!
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in coding languages such as, 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Java, Python, React JS, Javascript, and LaTex</b>
               </i>
+              .
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+               Currently, I want to work with startups and eventually create my own. I am in clubs such as&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">NSBE </b> and
+                {" "}
                 <b className="purple">
-                  Blockchain.
+                  SCOPE SC!
                 </b>
               </i>
               <br />
