@@ -15,7 +15,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Recent<strong className="purple">Projects </strong>
+          Recent<strong className="purple"> Projects </strong>
         </h1>
         <p style={{ color: "white" }}>
          Below are projects I've worked on 
