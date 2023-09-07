@@ -1,76 +1,53 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Aaron's Portfolio Website<br/>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
-<br/>
+Aaron's Demo Website - Used to teach REACT/coding functionalities
+-Action Items: 
+Add servlets for interactive publishing to web
+Add hiring page so people can contact you for services + website  building
 
-<center>
+Description: 
+Purple highlights are an ode to SCOPE - SCOPE Project
+-Home: 
+Logo redirects to background page then home - servlet will redirect to a virtual business card after user has visited every page 
+Split into two parts, two screens/containers utilized(Home/Home2)
+Typewriter affect used at the top, located in type.js(parameters can be changed)
+Logo imported from Canvas
+Logo imported as item so it can be fitted and changed based on server functions
+When servlet will be implemented, logo will spin on 3 user clicks. 
+Bottom 3 objects for connecting are simply buttons with links (Home2.js)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+-About:
+Purple container is a bootstrapped component found in NODE_modules which are imported (About_js)
+Logo is also a fitted object
+Pointing hands imported logos from tool and techstack. 
+Techstack imports reacttools which are the apps
+C++. JS, NODE JS, REACT Js, GIT, Firestore, SQL services, Python, and JAVA under coding skillset. 
+Includes frameworks and coding languages
+Tools section pools from reacttools
+MACos, VScode, Slack used. 
 
-</center>
+Projects:
+Projects boostrapped by a projectcard 
+Each card is a container with a "textbox" and then a link to the project. 
+Projects 
+- Oracle APEX [to be demoed]
+- Passport CLI - Done during internship and scans systems for security flaws and CVEs (Common Vulnerabilities and Exposures)
+- FreeTrojan! - App to be continued during business technology class. Helps college students find free events on campus + blog them (entering pitch competition)'
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+Resume: 
+Not much to say - Resume imported as object so there can be a link within a link
+Most interesting feature: Bootstrapped button that allows for easy downloads through react
 
-## TL;DR
+Header/Navbar: 
+Links to all places + github. Onclick features just act as redirections 
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
-## Built With
+Footer: 
+Orientation has social apps with links as onclick
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-This project was built using these technologies.
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
 
-## Features
 
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>

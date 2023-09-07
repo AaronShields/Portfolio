@@ -7,7 +7,10 @@ function Type() {
       options={{
         strings: [
           "CSBA @ USC💻",
-          "Oracle Intern - Health and AI",
+          "Oracle Intern - Health and AI (2023)",
+          "Oracle Intern - Global Business Unit (2022)",
+          "SCOPE SC",
+          "National Scoiety of Black Engineers",
           "Kappa Alpha Psi Fraternity, Inc.",
         ],
         autoStart: true,
